@@ -1,0 +1,180 @@
+﻿"UNIDAD NEGOCIO";"UNIDAD SERVICIO";"ID";"ESTADO";"FECHA CREACION";"HORA CREACION";"LUGAR INSPECCION";"PLACA PATENTE";"KILOMETRAJE";"MONITOR";"DEFECTOS BAJOS";"DEFECTOS MEDIOS";"DEFECTOS ALTOS";"DEFECTOS";"RESULTADO 1ERA";"PERIODO CURA";"RESULTADO 2DA";"FECHA TERMINO";"HORA TERMINO";"OBSERVACION"
+"16";"US16";"17EsZ8TNmum4W3YCaqQD";"Eliminada";"05/12/2025";"00:00:00";;"LZPG50";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"5ckJ0QoLZc4iYsQ4QWRr";"Eliminada";"05/12/2025";"00:00:00";;"LZPH12";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"6HhgccJ8DlJS15d7BHC7";"Eliminada";"05/12/2025";"00:00:00";;"LZPG47";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"7fYmQTxyYjaF7yZSDJQI";"Eliminada";"05/12/2025";"00:00:00";;"LZPH11";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"Gq0IwjDJ5qXqi1Ro97SD";"Eliminada";"05/12/2025";"00:00:00";;"LZPG46";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"XkRdXt8YxBHwlvCCel0F";"Eliminada";"05/12/2025";"00:00:00";;"LZPG45";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"ZpFqU3ddrc8PdLHWBV5t";"Eliminada";"05/12/2025";"00:00:00";;"LZPG48";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"c2Nd1ouxQDcToQ1ej2Kn";"Eliminada";"05/12/2025";"00:00:00";;"LZPG52";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"fzvuzZfv5Gj5seV4x6N9";"Eliminada";"05/12/2025";"00:00:00";;"LZPG53";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"i8cQiNKKayq83fXzYc3D";"Eliminada";"05/12/2025";"00:00:00";;"LZPG44";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"pRpEOAb8XM3yJnVv993G";"Eliminada";"05/12/2025";"00:00:00";;"LZPH14";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"ues3jPWgdXZJJZkbgCex";"Eliminada";"05/12/2025";"00:00:00";;"LZPH13";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"wIXCCptGLpYpO7jN8zyd";"Eliminada";"05/12/2025";"00:00:00";;"LZPG54";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"yztS1UQZMZQe0cyMKXYH";"Eliminada";"05/12/2025";"00:00:00";;"LZPG51";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"zYTtQmKbkotAosGRy9TG";"Eliminada";"05/12/2025";"00:00:00";;"LZPG49";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"";"";"BUS NO PRESENTADO"
+"16";"US16";"H7VrO7eQXI2FiNtF1Yjj";"Finalizada";"17/12/2025";"12:47:35";"SANTA ROSA";"SDGY15";265505;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"17/12/2025";"18:21:33";
+"16";"US16";"xWrCuJX8q6KlC99ZWaYZ";"Finalizada";"17/12/2025";"13:14:15";"SANTA ROSA";"SDGY37";227518;"Bastian Leiva";2;1;2;"6-11,6-9,5-1,6-3,2-2";"No Aprobado";"";"";"17/12/2025";"18:26:57";
+"16";"US16";"1o6nubkjDAGzqIBQchZn";"Finalizada";"19/12/2025";"11:06:32";"SANTA ROSA";"SDGY37";227770;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"19/12/2025";"13:51:41";
+"16";"US16";"NlyIilyL5NgX0AxUPQXU";"Finalizada";"22/12/2025";"11:14:59";"SANTA ROSA";"SDGY24";266515;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"22/12/2025";"17:14:04";
+"16";"US16";"vTZhhFIK9GCjZALALT6T";"Finalizada";"22/12/2025";"10:50:59";"SANTA ROSA";"RYJG97";252861;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"22/12/2025";"17:14:43";
+"16";"US16";"jU6LfUxysfNW1qVi32n4";"Finalizada";"22/12/2025";"11:05:32";"SANTA ROSA";"SDGY36";246621;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"22/12/2025";"17:37:57";
+"16";"US16";"12oGn6hGBlNHI7Lm6PRX";"Finalizada";"23/12/2025";"13:48:17";"SANTA ROSA";"SDGY12";241448;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"23/12/2025";"13:49:47";
+"16";"US16";"FFpOXzZewg1mjokkkXoh";"Finalizada";"29/12/2025";"11:32:46";"SANTA ROSA";"RYJG99";243821;"Bastian Leiva";0;0;0;"";"Pendiente";"29/12/2025";"Aprobado";"29/12/2025";"13:02:55";
+"16";"US16";"oBi5De0W3TqMlkDCa5F0";"Finalizada";"29/12/2025";"12:11:45";"SANTA ROSA";"SDGY22";267312;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"29/12/2025";"15:29:24";
+"16";"US16";"ZhFoSQCz3X1ZEL81JaGu";"Finalizada";"29/12/2025";"11:59:56";"SANTA ROSA";"SDGY27";252360;"Bastian Leiva";0;0;0;"";"Pendiente";"30/12/2025";"Aprobado";"30/12/2025";"17:12:28";
+"16";"US16";"J5ishzmIpCJrvnWabXVK";"Finalizada";"30/12/2025";"11:57:32";"SANTA ROSA";"SDGY18";275293;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"30/12/2025";"17:12:41";
+"16";"US16";"lnos7yybPI8y7cl4Ru4m";"Finalizada";"05/01/2026";"11:24:10";"SANTA ROSA";"SDGY38";237868;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"05/01/2026";"17:09:35";
+"16";"US16";"aYg2URRAKrAG7uwztPna";"Finalizada";"06/01/2026";"14:54:17";"SANTA ROSA";"SDGY39";241810;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"06/01/2026";"16:26:11";
+"16";"US16";"Mu1AWJC4G7xTttg4mVHL";"Finalizada";"06/01/2026";"15:04:51";"SANTA ROSA";"SDGY42";241580;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"06/01/2026";"17:28:16";
+"16";"US16";"s1APIhEykxnQae6aSDRR";"Finalizada";"06/01/2026";"14:23:10";"SANTA ROSA";"SVPW59";177651;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"06/01/2026";"17:53:11";
+"16";"US16";"3AcO1htIll7N6d26khOP";"Finalizada";"06/01/2026";"14:37:53";"SANTA ROSA";"SDGY16";238566;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"06/01/2026";"18:31:01";
+"16";"US16";"wmPN2q6ntLxmsjPIZ5I5";"Finalizada";"07/01/2026";"13:08:26";"SANTA ROSA";"RYJG96";257361;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"07/01/2026";"13:09:13";
+"16";"US16";"oSmtjbCV9DTEqC3c08Zh";"Finalizada";"08/01/2026";"11:12:04";"SANTA ROSA";"SFST31";270801;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"08/01/2026";"16:57:22";
+"16";"US16";"2rASKHns57wCNNos698q";"Finalizada";"08/01/2026";"11:34:17";"SANTA ROSA";"SDGY30";270343;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"08/01/2026";"16:57:57";
+"16";"US16";"z84gpm9gYivgKyG1d1N4";"Finalizada";"08/01/2026";"11:47:19";"SANTA ROSA";"SDGY26";241597;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"08/01/2026";"17:07:24";
+"16";"US16";"KomTTANZzVvD5a74MTcB";"Finalizada";"12/01/2026";"10:48:41";"SANTA ROSA";"SGCR39";232375;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"12/01/2026";"16:48:54";
+"16";"US16";"nJMXRwp4BJuR5Uy2mI1t";"Finalizada";"12/01/2026";"11:35:38";"SANTA ROSA";"SVPX57";185860;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"12/01/2026";"18:10:53";
+"16";"US16";"uUFPMZQnhUXihJtlD7hI";"Finalizada";"12/01/2026";"11:35:48";"SANTA ROSA";"SDGY13";246944;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"12/01/2026";"18:11:18";
+"16";"US16";"oqyPIISXHhvwgwkOL1Cu";"Finalizada";"13/01/2026";"14:35:10";"SANTA ROSA";"SDGY11";250287;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"13/01/2026";"17:06:16";
+"16";"US16";"RMAyL7QANNaIZAH40vJB";"Finalizada";"13/01/2026";"14:59:19";"SANTA ROSA";"SDGY19";250972;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"13/01/2026";"17:07:24";
+"16";"US16";"9SZjfPNhiSNjRt8saIbt";"Finalizada";"13/01/2026";"14:48:48";"SANTA ROSA";"SVPX56";180849;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"13/01/2026";"18:08:32";
+"16";"US16";"nhazg06ZoDGwKjNioZOA";"Finalizada";"13/01/2026";"15:20:12";"SANTA ROSA";"SDGY17";272301;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"13/01/2026";"18:11:03";
+"16";"US16";"gQf0omTU1YqsJADlecCO";"Finalizada";"13/01/2026";"15:31:17";"SANTA ROSA";"SDGY20";245761;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"13/01/2026";"18:12:32";
+"16";"US16";"Wg9vN4KDRRQLxe71X9Rm";"Finalizada";"13/01/2026";"15:50:05";"SANTA ROSA";"SDGY10";258362;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"13/01/2026";"19:40:28";
+"16";"US16";"9WbrIs7ouMnl5qiw0lDP";"Finalizada";"14/01/2026";"14:33:17";"SANTA ROSA";"SDGY28";246344;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"14/01/2026";"17:48:06";
+"16";"US16";"NdpNezQ9Apf0lMnJgC90";"Finalizada";"14/01/2026";"15:13:33";"SANTA ROSA";"SDGY23";239775;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"14/01/2026";"19:02:29";
+"16";"US16";"s0o2bJPU07dzIDwtrHid";"Finalizada";"14/01/2026";"14:49:03";"SANTA ROSA";"RYJG98";228875;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"14/01/2026";"19:03:44";
+"16";"US16";"vnal5X7Th4KEYO6PDMlr";"Finalizada";"14/01/2026";"14:56:35";"SANTA ROSA";"SDGY29";241683;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"14/01/2026";"19:05:15";
+"16";"US16";"QTkmDl7g7ncwQ3s2U9VL";"Finalizada";"14/01/2026";"14:23:00";"SANTA ROSA";"SDGY31";274310;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"14/01/2026";"19:26:51";
+"16";"US16";"XYl25Ke3f8aXpavvFYKr";"Finalizada";"14/01/2026";"15:19:47";"SANTA ROSA";"SDGY25";216231;"Bastian Leiva";0;0;0;"";"Pendiente";"15/01/2026";"Aprobado";"15/01/2026";"16:05:43";
+"16";"US16";"34naU3GUUWA1t8LcR008";"Finalizada";"15/01/2026";"13:49:24";"SANTA ROSA";"SDGY40";245004;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"15/01/2026";"16:11:53";
+"16";"US16";"7gdR4FwtSr9sLCR8qDuI";"Finalizada";"15/01/2026";"13:39:45";"SANTA ROSA";"SDGY41";236856;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"15/01/2026";"16:51:32";
+"16";"US16";"6ctTpXH3GBFsRfiL6goM";"Finalizada";"16/01/2026";"13:33:14";"SANTA ROSA";"SFST32";273493;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"16/01/2026";"17:04:22";
+"16";"US16";"kxkIGQccObmxqHZpgHp8";"Finalizada";"16/01/2026";"14:05:51";"SANTA ROSA";"SDGY34";244458;"Lucas Provoste";1;1;3;"6-9,9-10,9-4,6-2,2-2";"No Aprobado";"";"";"16/01/2026";"17:20:03";
+"16";"US16";"Jy3cG82wIkBimpcoIVAE";"Finalizada";"16/01/2026";"13:50:11";"SANTA ROSA";"SFST18";255848;"Lucas Provoste";3;1;4;"9-13,6-11,6-9,1-3,9-9,9-5,7-1,2-2";"No Aprobado";"";"";"16/01/2026";"17:25:59";
+"16";"US16";"tnmixA0Rg5sj5ueAHRQD";"Finalizada";"16/01/2026";"13:28:13";"SANTA ROSA";"SFST34";266659;"franco romero";1;2;2;"6-11,9-8,1-3,9-6,6-3";"No Aprobado";"";"";"16/01/2026";"17:30:15";
+"16";"US16";"LACI9T3TRDCoaOIscoVK";"Finalizada";"16/01/2026";"13:42:06";"SANTA ROSA";"SDGY43";243065;"franco romero";2;0;2;"9-13,6-11,6-3,2-2";"No Aprobado";"";"";"16/01/2026";"17:33:12";
+"16";"US16";"UTDW7mXdsAdVsSLTBiCb";"Finalizada";"19/01/2026";"12:55:15";"SANTA ROSA";"SDGY34";244460;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"19/01/2026";"12:56:12";
+"16";"US16";"Bw2aRpD5YtIn914s7PsP";"Finalizada";"19/01/2026";"12:34:34";"SANTA ROSA";"SFST34";266957;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"19/01/2026";"15:20:23";
+"16";"US16";"ZSHxcy6Z9AyWl9KbPGk4";"Finalizada";"19/01/2026";"12:46:23";"SANTA ROSA";"SFST18";255850;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"19/01/2026";"16:40:46";
+"16";"US16";"LlcoCVTuBsJlOZFl1BdL";"Finalizada";"19/01/2026";"13:04:56";"SANTA ROSA";"SDGY43";243066;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"19/01/2026";"17:44:01";
+"16";"US16";"gNNaELxwVXgSbLbgAH47";"Finalizada";"19/01/2026";"13:13:51";"SANTA ROSA";"SFST35";272753;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"19/01/2026";"17:45:03";
+"16";"US16";"wc7Xm1pGYhP1oBxwKeHA";"Finalizada";"19/01/2026";"12:17:26";"SANTA ROSA";"SFST36";263678;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"19/01/2026";"17:56:20";
+"16";"US16";"gGetUAmnXYcuEH2uXYmM";"Finalizada";"19/01/2026";"13:49:23";"SANTA ROSA";"SFST38";254709;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"19/01/2026";"18:41:09";
+"16";"US16";"eq4X1TJweT7JtkEJMQEN";"Finalizada";"19/01/2026";"14:01:52";"SANTA ROSA";"SFST37";272763;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"19/01/2026";"18:41:23";
+"16";"US16";"ngKIdItwZq2xC37R805L";"Finalizada";"20/01/2026";"12:10:08";"SANTA ROSA";"SFST40";266290;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"20/01/2026";"17:12:34";
+"16";"US16";"f318qxaGBDDfcgwVRzmx";"Finalizada";"20/01/2026";"11:50:19";"SANTA ROSA";"SVPW56";170360;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"20/01/2026";"17:15:09";
+"16";"US16";"rZx5skIlmB7GNPBHrFMV";"Finalizada";"20/01/2026";"12:28:13";"SANTA ROSA";"SVPW55";177975;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"20/01/2026";"18:34:26";
+"16";"US16";"4mtrGiu05CfTeA2jJ1LJ";"Finalizada";"20/01/2026";"12:00:34";"SANTA ROSA";"SFST39";267210;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"20/01/2026";"18:52:53";
+"16";"US16";"bSANKPUCrzZLdLfDEaZY";"Finalizada";"20/01/2026";"12:40:43";"SANTA ROSA";"SVPW57";164461;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"20/01/2026";"19:10:53";
+"16";"US16";"jEvRSlulmD3EaQj5SFcs";"Finalizada";"15/01/2026";"13:25:03";"SANTA ROSA";"SDGY33";247132;"Bastian Leiva";0;0;0;"";"Pendiente";"21/01/2026";"Aprobado";"21/01/2026";"11:06:13";
+"16";"US16";"wz0kenPYYRtmLiJaaRSY";"Finalizada";"21/01/2026";"12:36:25";"SANTA ROSA";"SVPX44";187062;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"21/01/2026";"16:38:10";
+"16";"US16";"l0VYTq4MbkQOd3Jn593M";"Finalizada";"21/01/2026";"12:04:53";"SANTA ROSA";"SVPX46";191454;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"21/01/2026";"17:34:43";
+"16";"US16";"DCJodbOOw6xqTamOU1dd";"Finalizada";"21/01/2026";"12:09:40";"SANTA ROSA";"SVPW60";173374;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"21/01/2026";"17:59:20";
+"16";"US16";"MugTLvodkm5INfSlX1XU";"Finalizada";"21/01/2026";"12:20:49";"SANTA ROSA";"SVPW58";143266;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"21/01/2026";"18:07:57";
+"16";"US16";"MtDTuD3mhXhIWGWUldpz";"Finalizada";"21/01/2026";"15:31:03";"SANTA ROSA";"SDGY21";236363;"franco romero";0;0;0;"";"Aprobado";"";"";"21/01/2026";"18:15:56";
+"16";"US16";"wRUesLJE5lcf9rbieoMi";"Finalizada";"21/01/2026";"12:10:10";"SANTA ROSA";"SRTK49";203176;"franco romero";0;0;3;"9-12,9-11,1-6";"No Aprobado";"";"";"21/01/2026";"19:22:31";
+"16";"US16";"joQSUmVqw7tFttyXd6Ti";"Finalizada";"22/01/2026";"12:57:45";"SANTA ROSA";"SVPX51";172898;"Bastian Leiva";3;1;3;"9-13,6-11,6-9,6-1,9-9,9-4,6-3";"No Aprobado";"";"";"22/01/2026";"13:03:02";
+"16";"US16";"BZcRDCeIVvjqYjhwYKgG";"Finalizada";"22/01/2026";"11:40:15";"SANTA ROSA";"SVPX47";181652;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"22/01/2026";"15:41:39";
+"16";"US16";"TvrQVNBuKBwCSAQjxPgO";"Finalizada";"22/01/2026";"12:05:39";"SANTA ROSA";"SRTK49";203176;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"22/01/2026";"16:42:53";
+"16";"US16";"BGxRKASCNP60PlmELXSh";"Finalizada";"22/01/2026";"12:30:10";"SANTA ROSA";"SVPX50";172041;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"22/01/2026";"17:38:40";
+"16";"US16";"vlMyxb2Ih8aqE42ndYkG";"Finalizada";"22/01/2026";"13:17:02";"SANTA ROSA";"SVPX45";197764;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"22/01/2026";"18:12:54";
+"16";"US16";"11tM1Sn06nOIPQBimq67";"Finalizada";"22/01/2026";"12:44:32";"SANTA ROSA";"SVPX48";174512;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"22/01/2026";"18:15:53";
+"16";"US16";"gcaucjujSpiV3OdKEV89";"Finalizada";"23/01/2026";"11:34:47";"SANTA ROSA";"SVPX51";173004;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"23/01/2026";"11:35:31";
+"16";"US16";"6v78SYNJXnB816ylK87m";"Eliminada";"23/01/2026";"11:31:11";"SANTA ROSA";"SVPX51";173004;"Bastian Leiva";"";"";"";;"Pendiente";"";"";"";"";
+"16";"US16";"3ajssSdeUqQz8oV5vboj";"Finalizada";"23/01/2026";"12:21:25";"SANTA ROSA";"SFST33";265202;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"23/01/2026";"16:37:36";
+"16";"US16";"QwBSLkDG17xtnApL4QRe";"Finalizada";"23/01/2026";"11:15:32";"SANTA ROSA";"SVPX49";180618;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"23/01/2026";"16:38:12";
+"16";"US16";"8mY5jwzspL0kDH208IQ2";"Finalizada";"23/01/2026";"11:50:56";"SANTA ROSA";"SVPX53";157154;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"23/01/2026";"16:39:14";
+"16";"US16";"xWtXS0gcAwrWvtOnPYhG";"Finalizada";"23/01/2026";"12:04:10";"SANTA ROSA";"SVPX52";167460;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"23/01/2026";"16:52:20";
+"16";"US16";"i41VnLpC6IWZYBi0X6Df";"Finalizada";"23/01/2026";"12:32:42";"SANTA ROSA";"SXKV86";206672;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"23/01/2026";"17:08:01";
+"16";"US16";"cZJb35M9nVxZKBkINvVE";"Finalizada";"23/01/2026";"10:53:17";"SANTA ROSA";"SVPX54";197770;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"23/01/2026";"17:37:54";
+"16";"US16";"KQihT58kfJzXW32LdPNj";"Finalizada";"25/01/2026";"00:00:00";;"SDGY32";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"25/01/2026";"00:00:00";"BUS NO PRESENTADO"
+"16";"US16";"Nj95VZ7iRqxEcLTyj8Ka";"Finalizada";"25/01/2026";"00:00:00";;"SDGY14";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"25/01/2026";"00:00:00";"BUS NO PRESENTADO"
+"16";"US16";"f1NhsLxkBgl3sg7EkcrB";"Finalizada";"25/01/2026";"00:00:00";;"SVPX55";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"25/01/2026";"00:00:00";"BUS NO PRESENTADO"
+"16";"US16";"vYmT6w65N2zl8JpR0ZPW";"Finalizada";"25/01/2026";"00:00:00";;"SDGY35";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"25/01/2026";"00:00:00";"BUS NO PRESENTADO"
+"16";"US16";"UNT1SZIDAHtZ6iSHhlGz";"Finalizada";"26/01/2026";"13:35:57";"SANTA ROSA";"SDGY15";273990;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"26/01/2026";"15:54:57";
+"16";"US16";"hP8Qt7jo8u1LCYbbxnJJ";"Finalizada";"26/01/2026";"13:46:13";"SANTA ROSA";"SDGY37";233367;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"26/01/2026";"17:06:10";
+"16";"US16";"uKycVY5f01dKioChn2Is";"Finalizada";"28/01/2026";"10:16:25";"SANTA ROSA";"SDGY12";247899;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"28/01/2026";"14:53:58";
+"16";"US16";"5Ovx3eLhRMr0IOJsEHKF";"Finalizada";"28/01/2026";"14:23:25";"SANTA ROSA";"SVPX55";181869;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"28/01/2026";"18:15:47";
+"16";"US16";"lig0SeakgBSr39fwB66r";"Finalizada";"28/01/2026";"10:29:26";"SANTA ROSA";"RYJG97";260266;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"28/01/2026";"18:15:57";
+"16";"US16";"IVl0sSCK0VuCAC2wsNVY";"Finalizada";"30/01/2026";"13:39:00";"SANTA ROSA";"SDGY24";274781;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"30/01/2026";"14:28:56";
+"16";"US16";"CcaF2MKIY74RlgqRX3iM";"Finalizada";"30/01/2026";"13:30:28";"SANTA ROSA";"SDGY36";255293;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"30/01/2026";"16:43:37";
+"16";"US16";"2ABqhrKRPMl3dFLZjkwo";"Finalizada";"02/02/2026";"13:30:19";"SANTA ROSA";"SDGY32";244168;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"02/02/2026";"16:43:40";
+"16";"US16";"ZRioVmHqUu5QcZwpDSuR";"Finalizada";"02/02/2026";"13:06:55";"SANTA ROSA";"SDGY18";282937;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"02/02/2026";"16:54:13";
+"16";"US16";"PvDSLbbiliK3RJLC9J3T";"Finalizada";"02/02/2026";"13:15:55";"SANTA ROSA";"RYJG99";250984;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"02/02/2026";"17:28:26";
+"16";"US16";"F0lMtbT28WPwDgAYjV4Q";"Finalizada";"04/02/2026";"11:08:08";"SANTA ROSA";"SDGY22";275923;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"04/02/2026";"17:55:15";
+"16";"US16";"7OSbpqRP3T31MfsettkL";"Finalizada";"04/02/2026";"11:05:22";"SANTA ROSA";"SDGY27";259901;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"04/02/2026";"17:55:35";
+"16";"US16";"y1fgLKDC32NiCXzfTYoy";"Finalizada";"06/02/2026";"12:49:18";"SANTA ROSA";"SDGY42";248602;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"06/02/2026";"14:36:43";
+"16";"US16";"PPcdeFZHAAVR7SCclaRl";"Finalizada";"06/02/2026";"12:33:52";"SANTA ROSA";"SDGY38";244621;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"06/02/2026";"15:16:35";
+"16";"US16";"U4DyRnXZpuTNGDnYmgIx";"Finalizada";"09/02/2026";"10:40:39";"SANTA ROSA";"SFST31";276095;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"09/02/2026";"17:10:09";
+"16";"US16";"FBmYHdfY5NOExMic79yx";"Finalizada";"09/02/2026";"10:37:24";"SANTA ROSA";"SDGY16";245464;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"09/02/2026";"17:41:25";
+"16";"US16";"1GYslQ7K5nxxKmkbCYe6";"Finalizada";"11/02/2026";"13:52:58";"SANTA ROSA";"SVPW59";185725;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"11/02/2026";"15:18:52";
+"16";"US16";"gCRnTXdcnnxqNFZP1Alr";"Finalizada";"13/02/2026";"14:16:20";"SANTA ROSA";"SDGY26";248597;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"13/02/2026";"16:16:19";
+"16";"US16";"aAaNRVpMJx2TipxRtMew";"Finalizada";"13/02/2026";"14:06:06";"SANTA ROSA";"SDGY30";278634;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"13/02/2026";"16:36:38";
+"16";"US16";"x4a25glpwm2H23qQk1ls";"Finalizada";"16/02/2026";"12:53:42";"SANTA ROSA";"SDGY13";254970;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"16/02/2026";"15:31:47";
+"16";"US16";"uJU61XLXbDOWuvZy26Tj";"Finalizada";"16/02/2026";"13:02:43";"SANTA ROSA";"SGCR39";239253;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"16/02/2026";"16:26:15";
+"16";"US16";"lQfk9N6o2m8VvcU52Mp1";"Finalizada";"18/02/2026";"11:35:50";"SANTA ROSA";"RYJG98";236184;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"18/02/2026";"13:41:45";
+"16";"US16";"NFSptLkBwbH7dmvmTsDp";"Finalizada";"18/02/2026";"11:46:43";"SANTA ROSA";"SFST35";280302;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"18/02/2026";"15:24:26";
+"16";"US16";"hTyq9AA8M4UWAEjXWpWl";"Finalizada";"20/02/2026";"12:24:08";"SANTA ROSA";"SVPX56";191421;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"20/02/2026";"15:15:46";
+"16";"US16";"DKa5UGQG3VkmATsO0m7H";"Finalizada";"20/02/2026";"12:13:41";"SANTA ROSA";"SVPX57";193012;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"20/02/2026";"17:08:08";
+"16";"US16";"iLNRWQmvwllVkX85d6hS";"Finalizada";"23/02/2026";"12:40:59";"SANTA ROSA";"SDGY10";267140;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"23/02/2026";"16:01:20";
+"16";"US16";"ZoBn3JCklC6e5IL2mSIo";"Finalizada";"23/02/2026";"12:30:36";"SANTA ROSA";"SDGY11";258829;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"23/02/2026";"16:01:49";
+"16";"US16";"jjZI21N6Tzq9FTvWBqIB";"Finalizada";"23/02/2026";"11:56:20";"SANTA ROSA";"SDGY35";233418;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"23/02/2026";"17:17:32";
+"16";"US16";"IMNFnCZ3ATKjveWRMo3Z";"Finalizada";"25/02/2026";"11:54:51";"SANTA ROSA";"SDGY19";260541;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"25/02/2026";"14:24:33";
+"16";"US16";"95LMs9SnAJuOd7kAh8jO";"Finalizada";"25/02/2026";"12:09:03";"SANTA ROSA";"SDGY17";281329;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"25/02/2026";"16:20:02";
+"16";"US16";"QeDI6zs4AnTHZiYIb3UE";"Finalizada";"27/02/2026";"11:13:36";"SANTA ROSA";"SDGY20";255754;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"27/02/2026";"14:36:14";
+"16";"US16";"bFzCHgH76c4L1bPn4WjT";"Finalizada";"02/03/2026";"11:05:44";"SANTA ROSA";"SDGY25";225550;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"02/03/2026";"15:48:09";
+"16";"US16";"kF8xT1Y5sFxsaWZTyA99";"Finalizada";"04/03/2026";"15:15:17";"SANTA ROSA";"SDGY28";257952;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"04/03/2026";"17:03:15";
+"16";"US16";"ibtsd4pEK6UbJu8LSpWL";"Finalizada";"04/03/2026";"15:06:53";"SANTA ROSA";"SDGY31";285979;"Bastian Leiva";1;0;2;"6-9,6-3,2-2";"No Aprobado";"";"";"04/03/2026";"17:31:34";
+"16";"US16";"HufKIohIKCZGcUG4jEiz";"Finalizada";"04/03/2026";"15:26:09";"SANTA ROSA";"SDGY29";252799;"Bastian Leiva";0;0;0;"";"Pendiente";"04/03/2026";"Aprobado";"04/03/2026";"18:07:55";
+"16";"US16";"wiGteN57MsDEWW7rsaHQ";"Finalizada";"05/03/2026";"09:12:25";"SANTA ROSA";"SDGY31";285979;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"05/03/2026";"09:16:04";
+"16";"US16";"zwxK7cTVsJ8jv9lso0qL";"Finalizada";"06/03/2026";"12:26:35";"SANTA ROSA";"SDGY40";255131;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"06/03/2026";"14:28:55";
+"16";"US16";"OudocGoTL27tljo4F35K";"Finalizada";"06/03/2026";"12:18:28";"SANTA ROSA";"SDGY33";257019;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"06/03/2026";"14:29:25";
+"16";"US16";"YSJkkwSSJcqggje3qUO1";"Finalizada";"11/03/2026";"14:07:49";"SANTA ROSA";"SFST32";284723;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"11/03/2026";"16:40:07";
+"16";"US16";"lyztZYW4OB5Lm54fFB6M";"Finalizada";"11/03/2026";"14:30:44";"SANTA ROSA";"SDGY41";244189;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"11/03/2026";"17:02:05";
+"16";"US16";"dxfNKNepwC45HMIFZ44Y";"Finalizada";"11/03/2026";"14:19:49";"SANTA ROSA";"SFST18";266326;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"11/03/2026";"17:12:06";
+"16";"US16";"KmS3xCqtCKGTV8TVUwkd";"Finalizada";"13/03/2026";"13:53:58";"SANTA ROSA";"SFST34";279753;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"13/03/2026";"13:55:33";
+"16";"US16";"ePkyCDDrVH4qn37eTU34";"Finalizada";"13/03/2026";"14:09:25";"SANTA ROSA";"SFST33";275957;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"13/03/2026";"14:55:23";
+"16";"US16";"Ix8IY0xc2Bn8E1KkwlOq";"Finalizada";"13/03/2026";"14:21:33";"SANTA ROSA";"SDGY43";255063;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"13/03/2026";"15:46:17";
+"16";"US16";"UvGZOhiTVgxFYzuCL2o9";"Finalizada";"16/03/2026";"11:35:18";"SANTA ROSA";"SFST36";275184;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"16/03/2026";"16:04:54";
+"16";"US16";"IrIUOVNhZIgg6nF04QnG";"Finalizada";"16/03/2026";"11:27:06";"SANTA ROSA";"RYJG96";267663;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"16/03/2026";"17:26:01";
+"16";"US16";"dq41Lb7wv2OupyLqRKyJ";"Finalizada";"18/03/2026";"11:25:23";"SANTA ROSA";"SFST38";267548;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"18/03/2026";"15:05:40";
+"16";"US16";"BAIMXeNH7D9hslhBAS7y";"Finalizada";"18/03/2026";"11:12:36";"SANTA ROSA";"SFST37";285553;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"18/03/2026";"17:05:12";
+"16";"US16";"3THaidqwqaz2QG93Sktu";"Finalizada";"20/03/2026";"11:42:57";"SANTA ROSA";"SFST39";280025;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"20/03/2026";"13:51:49";
+"16";"US16";"JQnVcavTo3Vi8FgbQWDb";"Finalizada";"20/03/2026";"11:36:01";"SANTA ROSA";"SFST40";280666;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"20/03/2026";"15:39:42";
+"16";"US16";"QTm7Ufn9ZEttB4nSXhzK";"Finalizada";"23/03/2026";"13:56:34";"SANTA ROSA";"SRTK49";212747;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"23/03/2026";"14:29:05";
+"16";"US16";"S4gRdMelrkDdT3ndT7Po";"Finalizada";"25/03/2026";"14:02:39";"SANTA ROSA";"SVPW55";192651;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"25/03/2026";"14:12:46";
+"16";"US16";"sRqo61ZehZjMHovQZxCN";"Finalizada";"25/03/2026";"13:55:23";"SANTA ROSA";"SDGY34";258790;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"25/03/2026";"16:45:28";
+"16";"US16";"uTL4S4N36sIyZIU32qkb";"Finalizada";"25/03/2026";"14:09:31";"SANTA ROSA";"SVPW56";185768;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"25/03/2026";"17:27:02";
+"16";"US16";"IRrlvzzmkTxvmcziT3jf";"Finalizada";"27/03/2026";"11:52:50";"SANTA ROSA";"SVPW60";186790;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"27/03/2026";"15:26:14";
+"16";"US16";"s7wRaDL4S1AN3GdFpEaw";"Finalizada";"27/03/2026";"11:14:39";"SANTA ROSA";"SVPW58";159076;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"27/03/2026";"16:11:29";
+"16";"US16";"j2qOm2naGlT9s4WCyXw4";"Finalizada";"31/03/2026";"12:02:59";"SANTA ROSA";"SDGY39";255352;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"31/03/2026";"16:39:31";
+"16";"US16";"LU6PVSgG9WgQDGD4EYt3";"Finalizada";"01/04/2026";"11:50:17";"SANTA ROSA";"SVPX46";205585;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"01/04/2026";"14:20:11";
+"16";"US16";"BhjVu8zGIT36QyqnzX1Z";"Finalizada";"01/04/2026";"11:41:43";"SANTA ROSA";"SDGY30";289362;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"01/04/2026";"14:20:33";
+"16";"US16";"2feHKKwlH9z7yE9Af8xS";"Finalizada";"01/04/2026";"12:00:52";"SANTA ROSA";"SVPX47";193315;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"01/04/2026";"15:27:01";
+"16";"US16";"2wc8StOsL9kufoJa5WzP";"Finalizada";"02/04/2026";"13:58:20";"SANTA ROSA";"SVPX44";200245;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"02/04/2026";"15:10:39";
+"16";"US16";"uLYDozeTy6fVyxV4gRDe";"Finalizada";"06/04/2026";"11:12:47";"SANTA ROSA";"SVPX55";197121;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"06/04/2026";"15:48:13";
+"16";"US16";"MmlL5G0CxNWWcAaH82oF";"Finalizada";"06/04/2026";"11:18:12";"SANTA ROSA";"SVPX54";208093;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"06/04/2026";"15:48:27";
+"16";"US16";"T3GXhXlE3uQuwSoTYfrw";"Eliminada";"30/03/2026";"11:55:39";"SANTA ROSA";"SVPX50";197102;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"";"";
+"16";"US16";"q0g9CDrHPpjkQscDJvOE";"Finalizada";"08/04/2026";"15:12:31";"SANTA ROSA";"SVPX49";197102;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"08/04/2026";"15:14:41";
+"16";"US16";"VMwv3Qk8FhgPZ3usPP88";"Finalizada";"09/04/2026";"13:14:49";"SANTA ROSA";"SVPX50";191349;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"09/04/2026";"17:17:25";
+"16";"US16";"3EOcr0EA5vRQqG7SP8fk";"Finalizada";"10/04/2026";"12:16:57";"SANTA ROSA";"SDGY32";256991;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"10/04/2026";"16:39:41";
+"16";"US16";"3AHjbkJxlzVz8erG6nOx";"Finalizada";"10/04/2026";"12:09:08";"SANTA ROSA";"SVPW57";170166;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"10/04/2026";"16:55:25";
+"16";"US16";"UphrROy9ONAgowvg9shI";"Finalizada";"13/04/2026";"13:44:32";"SANTA ROSA";"SXKV86";223489;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"13/04/2026";"14:50:10";
+"16";"US16";"1z72gUwxB0AiAhOFmsQw";"Finalizada";"13/04/2026";"13:54:52";"SANTA ROSA";"SVPX52";187528;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"13/04/2026";"16:59:52";
+"16";"US16";"PNRFAXntmyMg4ngjv24R";"Finalizada";"14/04/2026";"19:02:29";;"SDGY23";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"14/04/2026";"19:02:29";"BUS NO PRESENTADO"
+"16";"US16";"KtpGUBVnCZXSXOEcHECI";"Finalizada";"15/04/2026";"14:05:10";"SANTA ROSA";"SDGY23";253480;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"15/04/2026";"15:07:21";
+"16";"US16";"walZ3MkC5oSR2bHMNCQt";"Finalizada";"15/04/2026";"14:15:31";"SANTA ROSA";"SVPX53";173562;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"15/04/2026";"17:57:17";
+"16";"US16";"udJnVpP7RRbYVs1RahOa";"Finalizada";"17/04/2026";"13:59:22";"SANTA ROSA";"SDGY21";251416;"Bastian Leiva";3;0;6;"9-13,6-11,6-9,9-6,9-4,8-3,8-1,6-3,2-2";"No Aprobado";"";"";"17/04/2026";"14:05:58";
+"16";"US16";"pchQbA5jsAFhMtpoMWlD";"Finalizada";"17/04/2026";"13:30:05";"SANTA ROSA";"SVPX51";187776;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"17/04/2026";"16:39:19";
+"16";"US16";"rsdVs3CmHzX9CYC1S1bc";"Finalizada";"20/04/2026";"11:52:34";"SANTA ROSA";"SDGY21";251418;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"20/04/2026";"13:31:07";
+"16";"US16";"gfBAMiFzXmQTqmCzSu50";"Finalizada";"20/04/2026";"11:33:55";"SANTA ROSA";"SDGY15";293349;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"20/04/2026";"13:41:20";
+"16";"US16";"cUxWO1hIzpLn4wpTQHT6";"Finalizada";"20/04/2026";"11:42:50";"SANTA ROSA";"SDGY37";253116;"Bastian Leiva";0;0;0;"";"Aprobado";"";"";"20/04/2026";"15:08:04";
+"16";"US16";"kNKA92eDbL6SN90XuKx5";"Finalizada";"22/04/2026";"13:22:18";"SANTA ROSA";"RYJG97";274740;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"22/04/2026";"13:46:20";
+"16";"US16";"HJkU3u5SzinjqtstiyYi";"Finalizada";"22/04/2026";"13:33:39";"SANTA ROSA";"SDGY12";267244;"Lucas Provoste";0;0;0;"";"Aprobado";"";"";"22/04/2026";"16:17:09";
+"16";"US16";"CcgdVjJ0gaQ2X4ytRJBH";"Finalizada";"22/04/2026";"18:12:54";;"SVPX45";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"22/04/2026";"18:12:54";"BUS NO PRESENTADO"
+"16";"US16";"kbtCVcDtTxVY5OnRjzc9";"Finalizada";"22/04/2026";"18:15:53";;"SVPX48";0;"Applus";10;17;25;"9-13,8-4,8-3,8-2,8-1,6-12,6-10,6-5,3-4,3-3,9-10,9-8,9-7,7-1,6-11,6-7,6-6,6-1,5-3,5-2,5-1,4-5,4-4,3-2,2-1,1-4,1-3,9-12,9-11,9-9,9-6,9-5,9-4,9-3,9-2,9-1,7-3,7-2,6-9,6-8,6-4,6-3,6-2,4-6,4-3,4-2,4-1,3-1,2-2,1-6,1-5,1-2,1-1";"No Aprobado/No Presentado";"";"";"22/04/2026";"18:15:53";"BUS NO PRESENTADO"
+"16";"US16";"xV37cF3REhLwCEpnN9tv";"Finalizada";"24/04/2026";"13:27:43";"SANTA ROSA";"SDGY24";289762;"Bastian Leiva";0;0;0;"";"Pendiente";"24/04/2026";"Aprobado";"24/04/2026";"15:34:48";
+"16";"US16";"ZaZi5RxDqi6Bw6qfPMwG";"Finalizada";"24/04/2026";"13:39:33";"SANTA ROSA";"SDGY29";270854;"Bastian Leiva";0;0;0;"";"Pendiente";"24/04/2026";"Aprobado";"24/04/2026";"16:03:00";
