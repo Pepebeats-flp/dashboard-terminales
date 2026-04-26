@@ -40,7 +40,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Dashboard de Revisiones por Terminal")
+st.title("Dashboard de REGB por Terminal")
 
 # -------------------------------------------------
 # CARGA DE DATOS
@@ -334,6 +334,64 @@ if "fecha" in inspecciones_diarias.columns:
 
 st.sidebar.header("Filtros")
 
+
+# ---------------------------------------------
+# FILTRO DE FECHA
+# ---------------------------------------------
+
+opcion_fecha = st.sidebar.selectbox(
+    "Seleccionar periodo",
+    [
+        "Todo",
+        "Esta semana",
+        "Este mes",
+        "Este año",
+        "Rango personalizado"
+    ]
+)
+
+hoy = pd.Timestamp.today().normalize()
+
+if opcion_fecha == "Esta semana":
+    inicio_fecha = hoy - pd.Timedelta(days=hoy.weekday())
+    fin_fecha = hoy
+
+elif opcion_fecha == "Este mes":
+    inicio_fecha = hoy.replace(day=1)
+    fin_fecha = hoy
+
+elif opcion_fecha == "Este año":
+    inicio_fecha = hoy.replace(month=1, day=1)
+    fin_fecha = hoy
+
+elif opcion_fecha == "Rango personalizado":
+
+    fecha_min = inspecciones_diarias["fecha"].min()
+    fecha_max = inspecciones_diarias["fecha"].max()
+
+    fechas = st.sidebar.date_input(
+        "Seleccionar rango",
+        value=(fecha_min, fecha_max),
+        min_value=fecha_min,
+        max_value=fecha_max
+    )
+
+    if len(fechas) == 2:
+        inicio_fecha = pd.to_datetime(fechas[0])
+        fin_fecha = pd.to_datetime(fechas[1])
+    else:
+        inicio_fecha = fecha_min
+        fin_fecha = fecha_max
+
+else:  # "Todo"
+    inicio_fecha = inspecciones_diarias["fecha"].min()
+    fin_fecha = inspecciones_diarias["fecha"].max()
+
+
+# ---------------------------------------------
+# FILTRO DE CLIENTE Y TERMINAL
+# ---------------------------------------------
+
 clientes = sorted(
     inspecciones_diarias["CLIENTE"]
     .dropna()
@@ -363,15 +421,25 @@ terminal_sel = st.sidebar.multiselect(
 
 df_f = inspecciones_diarias[
     (inspecciones_diarias["LUGAR INSPECCION"].isin(terminal_sel)) &
-    (inspecciones_diarias["CLIENTE"].isin(cliente_sel))
+    (inspecciones_diarias["CLIENTE"].isin(cliente_sel)) &
+    (inspecciones_diarias["fecha"] >= inicio_fecha) &
+    (inspecciones_diarias["fecha"] <= fin_fecha)
+]
+
+# Dataset detallado filtrado (para heatmaps que requieren horas reales)
+df_detalle_f = df[
+    (df["LUGAR INSPECCION"].isin(terminal_sel)) &
+    (df["CLIENTE"].isin(cliente_sel)) &
+    (df["fecha"] >= inicio_fecha) &
+    (df["fecha"] <= fin_fecha)
 ]
 
 # -------------------------------------------------
-# ANÁLISIS AUTOMÁTICO
+# ANÁLISIS 
 # -------------------------------------------------
 
 st.subheader(
-    "Resumen automático"
+    "Resumen General"
 )
 
 col1, col2, col3 = st.columns(3)
@@ -407,16 +475,19 @@ col1.metric(
 )
 
 col2.metric(
-    "Promedio por día",
+    "Promedio General por día",
     round(promedio_por_dia, 2)
 )
 
 
 col1_2 = st.columns(1)[0]
 
+
+# Terminal con mayor promedio diario + el promedio de ese terminal
 col1_2.metric(
     "Terminal con mayor promedio diario",
-    top_terminal_prom
+    top_terminal_prom,
+    f"Promedio: {round(df_f.groupby('LUGAR INSPECCION')['n_inspecciones'].mean().max(), 2)}"
 )
 
 fecha_min = df_f["dia"].min()
@@ -547,10 +618,7 @@ st.subheader(
 )
 
 df_hora_terminal = (
-    df[
-        (df["LUGAR INSPECCION"].isin(terminal_sel)) &
-        (df["CLIENTE"].isin(cliente_sel))
-    ]
+    df_detalle_f
     .groupby(
         ["LUGAR INSPECCION", "hora"]
     )
@@ -570,18 +638,29 @@ pivot_ht_prom = pivot_ht.copy()
 if dias_unicos > 0:
     pivot_ht_prom = pivot_ht_prom / dias_unicos
 
+# Calcular porcentaje por hora respecto al total del terminal
+pivot_ht_pct = pivot_ht.div(
+    pivot_ht.sum(axis=1).replace(0, np.nan),
+    axis=0
+) * 100
+pivot_ht_pct = pivot_ht_pct.fillna(0)
+
 fig_ht = px.imshow(
     pivot_ht,
     aspect="auto"
 )
 
 fig_ht.update_traces(
-    customdata=pivot_ht_prom.values,
+    customdata=np.dstack((
+        pivot_ht_prom.values,
+        pivot_ht_pct.values
+    )),
     hovertemplate=(
         "Terminal: %{y}<br>"
         "Hora: %{x}<br>"
         "Total revisiones: %{z}<br>"
-        "Promedio por día: %{customdata:.2f}<extra></extra>"
+        "Promedio por día: %{customdata[0]:.2f}<br>"
+        "% del total diario: %{customdata[1]:.2f}%<extra></extra>"
     )
 )
 
@@ -599,10 +678,7 @@ st.subheader(
 )
 
 df_dia_terminal = (
-    df[
-        (df["LUGAR INSPECCION"].isin(terminal_sel)) &
-        (df["CLIENTE"].isin(cliente_sel))
-    ]
+    df_detalle_f
     .groupby(
         ["LUGAR INSPECCION", "dia_semana"]
     )
@@ -623,10 +699,7 @@ pivot_dt = pivot_dt.reindex(
 
 # Agregar versión promedio por día
 conteo_dias_semana = (
-    df[
-        (df["LUGAR INSPECCION"].isin(terminal_sel)) &
-        (df["CLIENTE"].isin(cliente_sel))
-    ]
+    df_detalle_f
     .groupby("dia_semana")["fecha"]
     .nunique()
 )
@@ -639,18 +712,29 @@ for col in pivot_dt_prom.columns:
             conteo_dias_semana[col]
         )
 
+# Calcular porcentaje por día de semana respecto al total del terminal
+pivot_dt_pct = pivot_dt.div(
+    pivot_dt.sum(axis=1).replace(0, np.nan),
+    axis=0
+) * 100
+pivot_dt_pct = pivot_dt_pct.fillna(0)
+
 fig_dt = px.imshow(
     pivot_dt,
     aspect="auto"
 )
 
 fig_dt.update_traces(
-    customdata=pivot_dt_prom.values,
+    customdata=np.dstack((
+        pivot_dt_prom.values,
+        pivot_dt_pct.values
+    )),
     hovertemplate=(
         "Terminal: %{y}<br>"
         "Día: %{x}<br>"
         "Total revisiones: %{z}<br>"
-        "Promedio por día: %{customdata:.2f}<extra></extra>"
+        "Promedio por día: %{customdata[0]:.2f}<br>"
+        "% del total semanal: %{customdata[1]:.2f}%<extra></extra>"
     )
 )
 
@@ -730,24 +814,30 @@ st.write("Registros con coordenadas válidas:", len(map_df))
 # --- Render mapa ---
 if len(map_df) > 0:
 
-    fig_map = px.scatter_mapbox(
-        map_df,
-        lat="LATITUD",
-        lon="LONGITUD",
-        size="EVENTOS",
-        color_discrete_sequence=["red"],
-        hover_name="LUGAR INSPECCION",
-        zoom=10,
-        height=600
-    )
-
-    # --- unir promedio diario al mapa ---
+    # --- unir promedio diario al mapa (antes de graficar) ---
     if "promedio_diario" in media_terminal_df.columns:
         map_df = map_df.merge(
             media_terminal_df[["LUGAR INSPECCION", "promedio_diario"]],
             on="LUGAR INSPECCION",
             how="left"
         )
+
+    fig_map = px.scatter_mapbox(
+        map_df,
+        lat="LATITUD",
+        lon="LONGITUD",
+        size="promedio_diario",
+        color="promedio_diario",
+        # Agregar degradado de color para diferenciar mejor
+        color_continuous_scale=[
+            (0.0, "blue"),
+            (0.5, "orange"),
+            (1.0, "red")
+        ],
+        hover_name="LUGAR INSPECCION",
+        zoom=10,
+        height=600
+    )
 
     # --- custom hover ---
     fig_map.update_traces(
